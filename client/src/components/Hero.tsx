@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { ArrowDown, MessageCircle } from "lucide-react";
-import heroImage from "@assets/generated_images/cozy_minimalist_homestay_bedroom_in_solo.png";
+import heroImage from "@assets/Gemini_Generated_Image_q1qj14q1qj14q1qj_1767163249368.png";
 
 export function Hero() {
   const scrollToAbout = () => {
